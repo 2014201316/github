@@ -7,4 +7,8 @@ package cn.bdqn.controller;
  * @Author: LO
  */
 public class GitHubController {
+    public static void main(String[] args) {
+        System.out.println("骆驼");
+    }
+
 }
